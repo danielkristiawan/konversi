@@ -1,0 +1,11 @@
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\bin\Debug\Terbilangform.exe.config
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\obj\Debug\Terbilangform.csprojResolveAssemblyReference.cache
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\obj\Debug\Terbilangform.Form1.resources
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\obj\Debug\Terbilangform.Properties.Resources.resources
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\obj\Debug\Terbilangform.csproj.GenerateResource.Cache
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\bin\Debug\Terbilangform.exe
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\bin\Debug\Terbilangform.pdb
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\bin\Debug\TerbilangLibrary.dll
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\bin\Debug\TerbilangLibrary.pdb
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\obj\Debug\Terbilangform.exe
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\Terbilangform\obj\Debug\Terbilangform.pdb

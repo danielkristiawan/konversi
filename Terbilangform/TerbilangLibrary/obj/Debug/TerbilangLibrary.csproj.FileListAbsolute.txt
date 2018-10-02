@@ -1,0 +1,5 @@
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojResolveAssemblyReference.cache
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+E:\MATERI KULIAH\SEMESTER 3\Terbilangform\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb
